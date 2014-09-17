@@ -1,4 +1,15 @@
 body {
-    background-color: lightcyan
+    background-color: lightcyan;
 }
 
+nav a {
+    color: aqua;
+}
+
+#current-link {
+    text-decoration: none;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
